@@ -1,4 +1,4 @@
-# Bookmark
+# Bookmark Manager
 
 A simple TailwindCSS landing page UI designed for a bookmark manager website.
 
